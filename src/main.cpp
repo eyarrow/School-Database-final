@@ -20,9 +20,8 @@ using namespace std;
 int main() {
     
     cout << left << "*********************************************************************" << endl;
-    cout << left << setw(70) << "Course Title: C867 Scripting and Programming Applications" << endl;
+    cout << left << setw(70) << "Course Title: Scripting and Programming Applications" << endl;
     cout << left << "Programming Language: C++" << endl;
-    cout << left << "WGU Student ID: 001172177" << endl;
     cout << left << "Name: Elizabeth Yarrow" << endl;
     cout << left << "*********************************************************************" << endl;
     cout << endl << endl;
